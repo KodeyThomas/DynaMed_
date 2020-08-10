@@ -1,0 +1,9 @@
+Package: tech.kodeycodesstuff.dynamed
+Name: DynaMed_
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bypass DynaMed Paywall.
+Maintainer: Kodey Thomas
+Author: Kodey Thomas
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
